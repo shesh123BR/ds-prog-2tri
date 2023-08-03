@@ -1,1 +1,2 @@
-# ds-prog-2tri
+# Eduardo Rosa Covaleki
+Matheus Felix da Costa
